@@ -1,0 +1,9 @@
+ace:
+  # 巡检时间间隔（秒）
+  interval: 10
+  # ace 服务名称
+  service_name: AntiCheatExpert Service
+  # ace 进程名称
+  process_name_list:
+    - SGuard64.exe
+    - SGuardSvc64.exe
